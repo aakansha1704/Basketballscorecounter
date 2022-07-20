@@ -39,6 +39,8 @@ button {
 .home{
     text-align: center;
     
+    
+    
 }
 
 .guest{
@@ -53,6 +55,7 @@ font-style: normal;
 font-weight: 40%;
 font-size: 350%;
 line-height: 220%;
+width: 100%;
 
 /* or 141% */
 
@@ -68,6 +71,8 @@ font-style: normal;
 font-weight: 40%;
 font-size: 350%;
 line-height: 220%;
+width: 90%;
+margin-left: 5%;
 
 /* or 141% */
 
